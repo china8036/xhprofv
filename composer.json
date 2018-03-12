@@ -1,18 +1,5 @@
 {
-    "name": "qqes/xhprofv",
-    "description": "QQES xhprof view",
-    "keywords": ["qqes", "xhprofv"],
-    "type": "library",
-    "homepage": "http://www.7724.com",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "QQES_ZH",
-            "homepage": "http://www.7724.com"
-        }
-    ],
     "require": {
-        "qqes/xhprof":""
+        "qqes/xhprof": "^0.0.8"
     }
-
 }
